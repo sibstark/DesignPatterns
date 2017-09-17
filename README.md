@@ -1,3 +1,3 @@
-My realizations of design patterns:
+My examples realizations of design patterns:
 
 #Observer

@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "Observer\Observer.csproj", "{22B7B266-1DC2-4164-A7C0-A90463F94A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer.Events", "Observer.Events\Observer.Events.csproj", "{138DF7F7-444A-4EC8-9ADF-4F5C801F6CD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.Events", "Observer.Events\Observer.Events.csproj", "{138DF7F7-444A-4EC8-9ADF-4F5C801F6CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{0DCCC5C6-2799-4763-9BCB-B6B55122C883}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{138DF7F7-444A-4EC8-9ADF-4F5C801F6CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{138DF7F7-444A-4EC8-9ADF-4F5C801F6CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{138DF7F7-444A-4EC8-9ADF-4F5C801F6CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCCC5C6-2799-4763-9BCB-B6B55122C883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCCC5C6-2799-4763-9BCB-B6B55122C883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCCC5C6-2799-4763-9BCB-B6B55122C883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCCC5C6-2799-4763-9BCB-B6B55122C883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,6 +2,15 @@
 {
     public abstract class CondimentDecorator : Beverage
     {
-        public abstract new string GetDescription();
+        private Beverage Beverage { get; }
+
+        public CondimentDecorator(Beverage beverage)
+        {
+            Beverage = beverage;
+        }
+        public override string GetDescription()
+        {
+            return base.GetDescription();
+        }
     }
 }

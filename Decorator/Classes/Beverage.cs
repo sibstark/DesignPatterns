@@ -4,11 +4,11 @@
     {
         protected string _description = "unkown";
 
-        public string GetDescription()
+        public virtual string GetDescription()
         {
             return _description;
         }
-
+        
         public abstract double Cost();
     }
 }

@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/Decorator/Decorator.csproj"
+                "${workspaceRoot}/DesignPatterns.sln"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

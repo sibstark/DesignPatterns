@@ -1,4 +1,6 @@
-My examples realizations of design patterns:
+My realizations of design patterns:
 
 #Observer
 #Observer (events)
+#Decorator
+#Factory

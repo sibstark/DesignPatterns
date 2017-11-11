@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.Events", "Observer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{0DCCC5C6-2799-4763-9BCB-B6B55122C883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Factory\FactoryMethod.csproj", "{3CFB49A6-B1AE-4110-8293-9D83CBAFE691}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{3CFB49A6-B1AE-4110-8293-9D83CBAFE691}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

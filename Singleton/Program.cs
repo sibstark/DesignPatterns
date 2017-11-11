@@ -6,7 +6,14 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var isntance = Singleton.Classes.Singleton.Instance;
+            isntance.Name = "Instance";
+
+            Console.WriteLine(isntance.Name);
+
+            var secondIsntance = Singleton.Classes.Singleton.Instance;
+
+            Console.WriteLine(secondIsntance.Name);            
         }
     }
 }

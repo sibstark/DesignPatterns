@@ -8,7 +8,7 @@ My realizations of design patterns:
  - [x] #Singleton
 
 - Structural Patterns
- - [ ] #Adapter
+ - [x] #Adapter
  - [ ] #Bridge
  - [ ] #Composite
  - [x] #Decorator

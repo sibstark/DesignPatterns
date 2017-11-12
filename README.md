@@ -20,7 +20,7 @@ My realizations of design patterns:
  - [ ] #Chain of Resp.
  - [x] #Observer
  - [x] #Observer (events)
- - [ ] #Command
+ - [x] #Command
  - [ ] #Interpreter
  - [ ] #Iterator
  - [ ] #Mediator

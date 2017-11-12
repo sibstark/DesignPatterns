@@ -12,7 +12,7 @@ My realizations of design patterns:
  - [ ] #Bridge
  - [ ] #Composite
  - [x] #Decorator
- - [ ] #Facade
+ - [x] #Facade
  - [ ] #Flyweight
  - [ ] #Proxy
 
@@ -25,7 +25,7 @@ My realizations of design patterns:
  - [ ] #Iterator
  - [ ] #Mediator
  - [ ] #Memento
- - [ ] #State
+ - [x] #State
  - [ ] #Strategy
  - [ ] #Template Method
  - [ ] #Visitor

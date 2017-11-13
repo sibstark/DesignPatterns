@@ -9,7 +9,7 @@ My realizations of design patterns:
 
 - Structural Patterns
  - [x] #Adapter
- - [ ] #Bridge
+ - [x] #Bridge
  - [ ] #Composite
  - [x] #Decorator
  - [x] #Facade

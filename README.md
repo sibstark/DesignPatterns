@@ -17,7 +17,7 @@ My realizations of design patterns:
  - [ ] #Proxy
 
 - Behavioral Patterns
- - [ ] #Chain of Resp.
+ - [x] #Chain of Resp.
  - [x] #Observer
  - [x] #Observer (events)
  - [x] #Command

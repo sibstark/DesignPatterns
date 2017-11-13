@@ -24,7 +24,7 @@ My realizations of design patterns:
  - [ ] #Interpreter
  - [ ] #Iterator
  - [ ] #Mediator
- - [ ] #Memento
+ - [x] #Memento
  - [x] #State
  - [ ] #Strategy
  - [ ] #Template Method

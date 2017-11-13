@@ -10,7 +10,7 @@ My realizations of design patterns:
 - Structural Patterns
  - [x] #Adapter
  - [x] #Bridge
- - [ ] #Composite
+ - [x] #Composite
  - [x] #Decorator
  - [x] #Facade
  - [ ] #Flyweight

@@ -38,6 +38,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight", "Flyweight\Flyw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor\Visitor.csproj", "{CBF6CD1D-EB80-4ECC-BE30-77D0833F70BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{F3D36E13-9F9A-4044-A304-E59C23B7B567}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -264,6 +266,18 @@ Global
 		{CBF6CD1D-EB80-4ECC-BE30-77D0833F70BE}.Release|x64.Build.0 = Release|Any CPU
 		{CBF6CD1D-EB80-4ECC-BE30-77D0833F70BE}.Release|x86.ActiveCfg = Release|Any CPU
 		{CBF6CD1D-EB80-4ECC-BE30-77D0833F70BE}.Release|x86.Build.0 = Release|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Debug|x64.Build.0 = Debug|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Debug|x86.Build.0 = Debug|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Release|x64.ActiveCfg = Release|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Release|x64.Build.0 = Release|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3D36E13-9F9A-4044-A304-E59C23B7B567}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

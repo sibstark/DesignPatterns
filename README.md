@@ -4,7 +4,7 @@ My realizations of design patterns:
  - [x] #AbstractFactory
  - [ ] #Builder
  - [x] #FactoryMethod
- - [ ] #Prototype
+ - [x] #Prototype
  - [x] #Singleton
 
 - Structural Patterns

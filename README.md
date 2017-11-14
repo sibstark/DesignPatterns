@@ -13,7 +13,7 @@ My realizations of design patterns:
  - [x] #Composite
  - [x] #Decorator
  - [x] #Facade
- - [ ] #Flyweight
+ - [x] #Flyweight
  - [ ] #Proxy
 
 - Behavioral Patterns

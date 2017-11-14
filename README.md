@@ -2,7 +2,7 @@ My realizations of design patterns:
 
 - Creational Patterns
  - [x] #AbstractFactory
- - [ ] #Builder
+ - [x] #Builder
  - [x] #FactoryMethod
  - [x] #Prototype
  - [x] #Singleton

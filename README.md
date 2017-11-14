@@ -14,7 +14,7 @@ My realizations of design patterns:
  - [x] #Decorator
  - [x] #Facade
  - [x] #Flyweight
- - [ ] #Proxy
+ - [x] #Proxy
 
 - Behavioral Patterns
  - [x] #Chain of Resp.

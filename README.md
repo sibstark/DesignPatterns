@@ -28,7 +28,7 @@ My realizations of design patterns:
  - [x] #State
  - [ ] #Strategy
  - [ ] #Template Method
- - [ ] #Visitor
+ - [x] #Visitor
 
 
 

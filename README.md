@@ -1,4 +1,4 @@
-My realizations of design patterns:
+Realizations of design patterns:
 
 - Creational Patterns
  - [x] #AbstractFactory
